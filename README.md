@@ -7,7 +7,7 @@ My journey has taken me through Front-end and ServiceNow development, providing 
 **imsuryaa/imsuryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📍 I'm based in Hyderabad
+- 📍 I'm based in Hyderabad, India
 - 🔭 I’m currently working on frontend development with React, Next.js
 - 📱 Follow me on Instagram for Web Development content - <a href="https://www.instagram.com/smtechhub/" target="_blank">@smtechhub</a>
 - 💬 Ask me about mentorship or tips to pursue your career in web development, I would be happy to help you 😍
