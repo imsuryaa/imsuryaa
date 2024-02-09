@@ -9,7 +9,7 @@ My journey has taken me through Front-end and ServiceNow development, providing 
 
 - 📍 I'm based in Hyderabad
 - 🔭 I’m currently working on frontend development with React, Next.js
-- 📱 Follow me on Instagram for Web Development content - <a href="https://www.instagram.com/smtechhub/" target=”_blank”>@smtechhub</a>
+- 📱 Follow me on Instagram for Web Development content - <a href="https://www.instagram.com/smtechhub/" target="_blank">@smtechhub</a>
 - 💬 Ask me about mentorship or tips to pursue your career in web development, I would be happy to help you 😍
 - 📫 How to reach me: suryatejaj97@gmail.com
 - ⚡ Fun fact: My code is like a fine wine; it may not always compile perfectly, but with time, it gets better. 🍷✨
